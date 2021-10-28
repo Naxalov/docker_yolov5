@@ -1,0 +1,1 @@
+docker run --rm --ipc=host --runtime=nvidia -it -p 8888:8888 ultralytics/yolov5 bash
