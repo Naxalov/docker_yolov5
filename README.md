@@ -2,6 +2,9 @@
 ```bash
 cp dataset.yaml ../data
 ```
+```bash
+pip install wandb
+```
 
 ### TRAIN 
 ```bash
